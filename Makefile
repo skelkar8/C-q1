@@ -1,8 +1,8 @@
 a.out:
-	gcc hello.c
+	gcc q1.c
 
 clean:
-	rm hello
+	rm q1
 
 test: a.out
 	bash test.sh
