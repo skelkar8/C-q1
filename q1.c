@@ -6,6 +6,5 @@
 
 int main(int argc, char * argv[]){
   //Write your solution here
-  //This is a push event
   return EXIT_SUCCESS;
 }
