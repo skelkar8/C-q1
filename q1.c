@@ -8,5 +8,6 @@ int main(int argc, char * argv[]){
   //Write your solution here
   int a = 120;
   printf("%d",&a);
+  printf("%d",&a);
   return EXIT_SUCCESS;
 }
