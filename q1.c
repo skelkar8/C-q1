@@ -9,6 +9,5 @@ int main(int argc, char * argv[]){
   //PLEASE WORK
   int a = 120;
   printf("%d",&a);
-  printf("%d",&a);
   return EXIT_SUCCESS;
 }
