@@ -6,7 +6,6 @@
 
 int main(int argc, char * argv[]){
   //Write your solution here
-  //Solutions
   int a = 120;
   printf("%d",&a);
   return EXIT_SUCCESS;
